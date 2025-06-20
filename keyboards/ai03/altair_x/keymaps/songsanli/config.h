@@ -1,4 +1,4 @@
-#define TAPPING_TERM 200
+#define TAPPING_TERM 300
 
 // disable repeating when holding a key after tapping it
 // https://docs.qmk.fm/tap_hold#quick-tap-term
